@@ -4,8 +4,8 @@ import json
 import yaml
 import os
 
-from lake.lake_handle import MyParser, MyContext
-from lake.failure_result_parser import parse_failure_result
+from lake_handle import MyParser, MyContext
+from failure_result_parser import parse_failure_result
 
 # parent_id和book
 parent_id_and_child: dict = {}
