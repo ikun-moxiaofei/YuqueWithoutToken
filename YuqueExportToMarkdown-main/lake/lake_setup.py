@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2023年11月13日 13点41分
-@Auth ： zhoup
-@File ：lake_setup.py
-"""
+
 import json
 import yaml
 import os

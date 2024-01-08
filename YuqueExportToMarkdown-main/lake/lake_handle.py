@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2023年11月13日 13点41分
-@Auth ： zhoup
-@File ：lake_handle.py
-"""
+
 from bs4 import BeautifulSoup, NavigableString, Tag
 import json
 from urllib import parse
